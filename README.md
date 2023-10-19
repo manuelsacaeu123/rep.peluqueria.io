@@ -1,0 +1,2 @@
+# rep.peluqueria.io
+proyecto
